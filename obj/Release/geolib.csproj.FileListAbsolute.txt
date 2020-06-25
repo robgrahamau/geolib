@@ -1,0 +1,6 @@
+I:\git\sci\geolib\bin\Release\geolib.dll
+I:\git\sci\geolib\bin\Release\geolib.pdb
+I:\git\sci\geolib\obj\Release\geolib.csprojResolveAssemblyReference.cache
+I:\git\sci\geolib\obj\Release\geolib.dll
+I:\git\sci\geolib\obj\Release\geolib.pdb
+I:\git\sci\geolib\obj\Release\geolib.csproj.CoreCompileInputs.cache

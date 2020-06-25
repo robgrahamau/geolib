@@ -1,0 +1,5 @@
+I:\git\sci\geolib\bin\Debug\geolib.dll
+I:\git\sci\geolib\bin\Debug\geolib.pdb
+I:\git\sci\geolib\obj\Debug\geolib.csprojResolveAssemblyReference.cache
+I:\git\sci\geolib\obj\Debug\geolib.dll
+I:\git\sci\geolib\obj\Debug\geolib.pdb
